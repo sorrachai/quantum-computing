@@ -1,4 +1,4 @@
 quantum-computing
 =================
 
-My Senior Project
+An Implementation of Compact Genetic Algorithm on a Quantum Computer
